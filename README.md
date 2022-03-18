@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá, Devs 👋 Bem-vindo ao meu perfil no Github
 
-<!--
-**WesleyVinicius/WesleyVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Wesley, sou Analista e Desenvolvedor de Sistemas, especialista em Tecnologias e Educação a Distância e possuo experiência com Tecnologias Educacionais. Tenho interesse em desenvolvimento web e gestão do desenvolvimento de software.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://instagram.com/srwesleyvinicius" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/wesleyvinicius" target="_blank"><img src="https://img.shields.io/badge/Twitter-00BFFF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wesleyviniciusfernandes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wesleyviniciusfernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+### GitHub Analytics:
+<div>
+  <a href="https://github.com/wesleyvinicius">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvinicius&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyvinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+<br><br>
+  
+![Snake animation](https://github.com/wesleyvinicius/wesleyvinicius/blob/output/github-contribution-grid-snake.svg)
