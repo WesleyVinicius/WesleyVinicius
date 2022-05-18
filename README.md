@@ -1,4 +1,4 @@
-## Olá, Devs 👋 Bem-vindo ao meu perfil no Github!
+## Olá, Dev 👋 Bem-vindo ao meu perfil no Github!
 
 Eu sou Wesley, sou Analista e Desenvolvedor de Sistemas, especialista em Tecnologias e Educação a Distância e possuo experiência com Tecnologias Educacionais. Tenho interesse em desenvolvimento web e gestão do desenvolvimento de software.
 
