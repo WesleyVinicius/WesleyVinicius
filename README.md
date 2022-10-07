@@ -13,8 +13,8 @@ Eu sou Wesley, sou Analista e Desenvolvedor de Sistemas, especialista em Tecnolo
 ### GitHub Analytics:
 <div>
   <a href="https://github.com/wesleyvinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyvinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvinicius&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wesleyvinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvinicius&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <br><br>
