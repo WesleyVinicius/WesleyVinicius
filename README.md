@@ -1,6 +1,6 @@
 ## Olá 👋 Bem-vinda/o ao meu perfil no Github!
 
-Eu sou Wesley, sou Analista e Desenvolvedor de Sistemas, especialista em Tecnologias e Educação a Distância e em Gestão Pública. Possuo experiência com Tecnologias Educacionais e Educação Profissional e Tecnológica, e tenho interesse em desenvolvimento web, tanto back-end, utilizando PHP, quanto em front-end.
+Eu sou Wesley, sou Analista e Desenvolvedor de Sistemas, especialista em Tecnologias e Educação a Distância e em Gestão Pública. Possuo experiência com Tecnologias Educacionais e Educação Profissional e Tecnológica, e com desenvolvimento web, tanto back-end, utilizando PHP, quanto em front-end.
 
 <div>
   <a href="https://www.linkedin.com/in/wesleyviniciusfernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
