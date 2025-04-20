@@ -26,5 +26,3 @@ Gosto de usar tecnologia para resolver problemas reais e contribuir para projeto
 </div>
 
 <br><br>
-  
-![Snake animation](https://github.com/wesleyvinicius/wesleyvinicius/blob/output/github-contribution-grid-snake.svg)
