@@ -1,4 +1,4 @@
-##👋 Olá, eu sou Wesley!
+👋 Olá, eu sou Wesley!
 
 Sou analista e desenvolvedor de sistemas, com foco em desenvolvimento web, análise de dados e integração de sistemas. Atuo principalmente com:
 
