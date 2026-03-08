@@ -40,12 +40,13 @@ Como Mestrando em Computação Aplicada, foco em transformar dados complexos em 
 
 ---
 
-### 📊 Estatísticas e Atividade
+## 📊 Estatísticas e Atividade
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyVinicius&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyVinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyVinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyVinicius&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=WesleyVinicius&theme=tokyonight"/>
 ---
 
 ### 📫 Vamos nos conectar?
