@@ -1,6 +1,6 @@
 # Wesley Vinicius
 
-**Backend Developer • PHP • Laravel • APIs REST • PostgreSQL**
+**Backend Developer • PHP • Laravel • PostgreSQL • APIs REST **
 
 Mestre em Computação Aplicada pela Universidade Estadual de Ponta Grossa (UEPG).
 
