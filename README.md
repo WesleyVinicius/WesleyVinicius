@@ -1,122 +1,119 @@
-# Olá, eu sou Wesley Vinicius! 👋
+# Wesley Vinicius
 
-## Desenvolvedor Backend | PHP • Laravel • APIs REST • PostgreSQL | Mestre em Computação Aplicada
+**Backend Developer • PHP • Laravel • APIs REST • PostgreSQL**
 
-Sou **Desenvolvedor Backend** com **4 anos de experiência** em desenvolvimento de software utilizando **PHP** e **Laravel**, especializado na modernização de sistemas legados, desenvolvimento de APIs REST, integração de sistemas e bancos de dados relacionais.
+Mestre em Computação Aplicada pela Universidade Estadual de Ponta Grossa (UEPG).
 
-Sou **Mestre em Computação Aplicada pela Universidade Estadual de Ponta Grossa (UEPG)**, onde desenvolvi pesquisas voltadas à interoperabilidade de dados, metadados agrometeorológicos e aplicações de Inteligência Artificial e Machine Learning.
-
-Busco desenvolver soluções robustas, escaláveis e de fácil manutenção, sempre aplicando boas práticas como **Clean Code**, refatoração contínua e arquitetura orientada à qualidade do software.
+Desenvolvedor Backend com experiência em modernização de sistemas legados, desenvolvimento de APIs REST, integração de sistemas e bancos de dados relacionais. Também atuo com Python e Machine Learning aplicados à automação e análise de dados.
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Projetos em Destaque
 
-## Backend
+### 📚 Sistema Reler
 
-![PHP](https://img.shields.io/badge/PHP-777BB1?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+Sistema web para gerenciamento de sebos desenvolvido em Laravel.
 
-- PHP (5.6 → 8.x)
-- Laravel
+**Tecnologias:** PHP • Laravel • PostgreSQL • Bootstrap
+
+**Funcionalidades:**
+- Cadastro de livros
+- Controle de estoque
+- Gerenciamento de autores e editoras
+- Registro de vendas
+- Administração do sistema
+
+➡️ [Ver repositório](https://github.com/WesleyVinicius/sebo-reler)
+
+---
+
+### 🤖 API para Classificação Automática de Projetos
+
+API desenvolvida em Python para classificação automática de projetos utilizando Machine Learning e os Objetivos de Desenvolvimento Sustentável (ODS).
+
+**Tecnologias:** Python • Pandas • Scikit-Learn
+
+➡️ [Ver repositório](LINK_DO_REPOSITORIO)
+
+---
+
+### 🌾 Framework para Integração de Metadados Agrometeorológicos
+
+Projeto desenvolvido durante o Mestrado em Computação Aplicada voltado à interoperabilidade entre padrões internacionais de metadados agrícolas e meteorológicos.
+
+**Áreas:**
+- Interoperabilidade
+- Metadados
+- Inteligência Artificial
+- Agricultura Digital
+
+➡️ [Ver repositório](https://github.com/WesleyVinicius/framework-metadados)
+
+---
+
+## 💼 O que eu desenvolvo
+
 - APIs REST
+- Sistemas Backend
+- Modernização de sistemas legados
+- Integração de sistemas
+- Automação de processos
+- Bancos de dados relacionais
+- Machine Learning aplicado a dados
 
 ---
 
-## Banco de Dados
+## 🛠️ Tecnologias
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sybase](https://img.shields.io/badge/Sybase-008FCB?style=for-the-badge&logo=sap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend
 
-- PostgreSQL
-- Sybase
-- MySQL
+![PHP](https://img.shields.io/badge/PHP-777BB1?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+### Banco de Dados
 
-## Python & Machine Learning
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Sybase](https://img.shields.io/badge/Sybase-008FCB?style=flat-square&logo=sap&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Python e Dados
 
-- Python
-- Pandas
-- Scikit-Learn
-- Automação de Processos
-- Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
----
+### Ferramentas
 
-## Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-- Git / GitHub
-- GitLab
-- Bootstrap
-- Moodle
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ---
 
-# 💼 Experiência
+## 🎓 Pesquisa
 
-Ao longo da minha carreira, participei do desenvolvimento e evolução de sistemas utilizados em ambiente institucional, atuando principalmente em:
+Durante o Mestrado em Computação Aplicada desenvolvi pesquisas envolvendo:
 
-- Modernização de sistemas legados em PHP 5.6 para versões atuais do PHP.
-- Desenvolvimento e manutenção de aplicações em Laravel.
-- Desenvolvimento de APIs REST.
-- Integração entre PostgreSQL e Sybase.
-- Refatoração de código utilizando Clean Code.
-- Automação de processos internos.
-- Desenvolvimento de API em Python para classificação automática de projetos utilizando Machine Learning.
-
----
-
-# 🎓 Pesquisa
-
-Durante o Mestrado em Computação Aplicada, desenvolvi pesquisas voltadas para:
-
-- Interoperabilidade de Dados
-- Metadados Agrometeorológicos
-- Integração de Dados Agrícolas
 - Inteligência Artificial
 - Machine Learning
+- Interoperabilidade de Dados
+- Metadados Agrometeorológicos
+- Agricultura Digital
 - Arquitetura de Dados
-- Padrões Internacionais de Metadados
 
 ---
 
-# 📌 Projetos em Destaque
+## 📖 Atualmente
 
-## 📚 Sistema Reler
-
-Sistema web para gerenciamento de sebos desenvolvido em Laravel, focado na administração de acervo, vendas e gerenciamento interno.
-
-## 🤖 API para Classificação Automática de Projetos
-
-API desenvolvida em Python utilizando Pandas e Scikit-Learn para classificação automática de projetos de extensão com base nos Objetivos de Desenvolvimento Sustentável (ODS).
-
-## 🌾 Pesquisa em Interoperabilidade de Dados Agrometeorológicos
-
-Pesquisa desenvolvida durante o Mestrado em Computação Aplicada sobre integração de padrões internacionais de metadados para dados agrícolas e meteorológicos.
+- 💻 Desenvolvendo aplicações Backend em PHP e Laravel
+- 📚 Estudando Arquitetura de Software
+- 🤖 Explorando Inteligência Artificial aplicada ao desenvolvimento
+- 🌱 Criando projetos pessoais
 
 ---
 
-# 📖 Atualmente
-
-- 💻 Desenvolvendo aplicações Backend com PHP e Laravel.
-- 📚 Estudando Arquitetura de Software.
-- 🤖 Aprofundando conhecimentos em Inteligência Artificial aplicada ao desenvolvimento de software.
-- 🌱 Desenvolvendo projetos pessoais para evolução técnica.
-
----
-
-# 📫 Contato
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyviniciusf)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyviniciusfernandes@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyviniciusfernandes@gmail.com)
