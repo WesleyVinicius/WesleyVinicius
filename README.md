@@ -27,16 +27,6 @@ Sistema web para gerenciamento de sebos desenvolvido em Laravel.
 
 ---
 
-### 🤖 API para Classificação Automática de Projetos
-
-API desenvolvida em Python para classificação automática de projetos utilizando Machine Learning e os Objetivos de Desenvolvimento Sustentável (ODS).
-
-**Tecnologias:** Python • Pandas • Scikit-Learn
-
-➡️ [Ver repositório](LINK_DO_REPOSITORIO)
-
----
-
 ### 🌾 Framework para Integração de Metadados Agrometeorológicos
 
 Projeto desenvolvido durante o Mestrado em Computação Aplicada voltado à interoperabilidade entre padrões internacionais de metadados agrícolas e meteorológicos.
@@ -44,10 +34,19 @@ Projeto desenvolvido durante o Mestrado em Computação Aplicada voltado à inte
 **Áreas:**
 - Interoperabilidade
 - Metadados
-- Inteligência Artificial
 - Agricultura Digital
 
-➡️ [Ver repositório](https://github.com/WesleyVinicius/framework-metadados)
+➡️ [Ver repositório](https://github.com/WesleyVinicius/agrometa)
+
+---
+
+### 🤖 API para Classificação Automática de Projetos
+
+API desenvolvida em Python para classificação automática de projetos utilizando Machine Learning e os Objetivos de Desenvolvimento Sustentável (ODS).
+
+**Tecnologias:** Python • Pandas • Scikit-Learn
+
+➡️ [Ver repositório](LINK_DO_REPOSITORIO)
 
 ---
 
